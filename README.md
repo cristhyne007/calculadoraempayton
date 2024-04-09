@@ -1,2 +1,2 @@
-# calculadoraempayton
-primeiro aplicativo em payton
+# utilizando python
+ aplicativos em python
